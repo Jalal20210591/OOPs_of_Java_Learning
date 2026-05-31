@@ -1,0 +1,129 @@
+============ Part - 2 ============
+
+============ OOP Description ===========
+
+# Note for OOP
+--> It is one of the most popular programming paradigm. 
+--> It is a programming pattern that resolves around objects or entities. 
+--> Object Oriented Programming: 
+    -> Teaches us how to build software by closely imitating the real world objects or entities. 
+
+## Popular Programming approaches
+
+    1. Procedure Oriented Programming  -> C 
+    2. Object Oriented Programming -> Java, python, C#
+    3. Functional Programming
+    4. Aspect Oriented Programming
+
+## Advantage of Object-oriented Programming
+
+    1. Better Representation of Real World Scenario
+    2. Enhanced Security
+    3. Code Reusability & Easy Code Modification
+    4. Better Software Maintenance
+
+## Key Concepts of Object-Oriented Programming
+    1. Class
+    2. Object
+    3. Encapsulation -> Data Security
+    4. Abstraction   -> Hides Complexity
+    5. Polymorphism  -> Simplicity
+    6. Inheritance   -> Code Reusability
+
+
+============ Part - 2 ================
+
+============ Class & Object ===========
+
+1. What is Object? 
+    = In programming any real world entity is an Object. 
+    = Object physically represent করে । 
+    = Object are physical
+    = Object is the implementation 
+
+2. Components of an Object 
+    = Every Objects has two main Components 
+    i. Property (Data Members) (Attributes)
+    ii. Behaviours (Actions or Methods)
+
+    # Are you an Object ? 
+    --> name, height, age -> Attributes
+    --> walking(), talking(), running(), eating() -> Behaviours (Actions or methods)
+
+    # Is your Phone an Object
+
+
+3. How to create an Object ? 
+
+    i. Object এর Datatypes সবসময় Class হয়। 
+
+4. What is Class ? 
+    i. A class is used to specify the basic structure of an Object. 
+    ii. Class is a logical Entity. --> Real World এ থাকে না 
+    iii. Class are logical.
+    iv. Class is the Design. 
+
+    iv. It contains
+        -> Data members / Attributes
+        -> Methods / Behaviours
+    
+    Example:  
+            Human (class)           Cars
+            i. Jalal                i. Mercedes
+            ii. Ravi                ii. BMW
+            iii. Mehedi             iii. Audi
+
+5. Syntax of Object Oriented Programming
+
+    <access modifier> class <class Name>
+    {
+        // Declaration of Data Types
+
+        <access modifier> <data Types> <variable Name> = value;
+
+        ...................................
+        ...................................
+
+        // Declaration of Methods
+
+        <access modifier> <return_type> <method_Name> ( <argument_datatypes> argument )
+        {
+            // Method Body
+        }      
+
+    }
+
+6. Encapsulation ======================
+
+    i. Encapsulation is the process of binding or wrapping the data and the codes that operates on the data into a single entity.
+    ii. Another way to think about Encapsulation is, that it is a protective shield that prevents the data from being accessed by the code outside this shield.
+
+    # According to Encapsulation
+        --> Data : Data members must be kept private.
+        --> Methods :- Methods only can access these data members and these methods can be made public.
+
+    ## Real World Example of Encapsulation
+        --> Account balance,
+        --> transactions done,
+
+        # So Bank details are private, so that anyone cannot see your account details. 
+
+        # Only you will have access to your account details and that too using method defined inside that class and this method will ask your account id and password for authentication.
+
+    ## How to achieve or implement Encapsulation in Java
+
+        # there are two steps required to achieve or implement Encapsulation in Java program. 
+            i. Declaring the instance variable of the class as private so that it cannot be accessed directly by anyone from outside the class. 
+            ii. 
+        
+7. 
+
+
+    
+
+
+
+
+
+
+
