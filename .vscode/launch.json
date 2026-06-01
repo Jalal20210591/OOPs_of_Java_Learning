@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestCar",
+      "request": "launch",
+      "mainClass": "TestCar",
+      "projectName": "OOPs of Java_6cea6312"
+    },
+    {
+      "type": "java",
+      "name": "First",
+      "request": "launch",
+      "mainClass": "First",
+      "projectName": "OOPs of Java_6cea6312"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "Main",
