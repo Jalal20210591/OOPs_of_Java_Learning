@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "UseStudent",
+      "request": "launch",
+      "mainClass": "UseStudent",
+      "projectName": "OOPs of Java_6cea6312"
+    },
+    {
+      "type": "java",
       "name": "TestCar",
       "request": "launch",
       "mainClass": "TestCar",
