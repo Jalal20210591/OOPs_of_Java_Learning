@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Student2_driver",
+      "request": "launch",
+      "mainClass": "Encapsulation.Student_Data.Student2_driver",
+      "projectName": "OOPs of Java_6cea6312"
+    },
+    {
+      "type": "java",
       "name": "UseStudent",
       "request": "launch",
       "mainClass": "UseStudent",

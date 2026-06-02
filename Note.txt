@@ -103,8 +103,9 @@
         --> Methods :- Methods only can access these data members and these methods can be made public.
 
     ## Real World Example of Encapsulation
-        --> Account balance,
-        --> transactions done,
+        --> Atm Matchine: 
+            --> Account balance,
+            --> transactions done,
 
         # So Bank details are private, so that anyone cannot see your account details. 
 
