@@ -132,7 +132,18 @@
 8.  =====  Difference Between Abstraction and Encapsulation
 
 
+9.  =====  Constructor ===========
+    --> A Constructor is a special method of a class in OOP that initializes a newly created object of that class. 
+   
+    1. Have the same name as that of the class. 
+    2. Don't have any return type. 
+    3. Automatically called as soon as object is created.
 
+    --> Default Constructor: 
+        --> Default Constructor is Automatically inserted by java compiler, 
+        if we have not created any constructor explicitly. 
+
+        
 
 
     

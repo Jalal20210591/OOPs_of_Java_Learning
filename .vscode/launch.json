@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Use_Product",
+      "request": "launch",
+      "mainClass": "Getter_and_Setter.Product.Use_Product",
+      "projectName": "OOPs of Java_6cea6312"
+    },
+    {
+      "type": "java",
+      "name": "UseAccount",
+      "request": "launch",
+      "mainClass": "Constructor.Account.UseAccount",
+      "projectName": "OOPs of Java_6cea6312"
+    },
+    {
+      "type": "java",
       "name": "Student2_driver",
       "request": "launch",
       "mainClass": "Encapsulation.Student_Data.Student2_driver",
