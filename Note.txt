@@ -117,7 +117,22 @@
             i. Declaring the instance variable of the class as private so that it cannot be accessed directly by anyone from outside the class. 
             ii. 
         
-7. 
+7.  ## Abstraction ================
+
+    --> Abstraction is one of the key Concepts of OOP that Shows only essential 
+        attributes and "Hides" unnecessary information. 
+    
+    --> User er jototoko janar dorkar tototoko dekhao, er chaite beshi dekhano lagbe na. 
+    --> The main purpose of Abstraction is to make the interaction with the application/product simple. 
+
+    --> Without Abstraction and  with Abstraction  ==> Coffee maker macthine design   ==> main output design 
+    --> Complext part hidden rakhe,  ar easy part show kore
+
+
+8.  =====  Difference Between Abstraction and Encapsulation
+
+
+
 
 
     

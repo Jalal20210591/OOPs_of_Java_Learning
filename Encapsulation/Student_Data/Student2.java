@@ -9,8 +9,10 @@ public class Student2
 
     public void setStudentData(String n, int r, double p)
     {
+        if(r <= 0) System.out.println("Roll number cannot be Negative");
+        else roll = r;
+        
         name = n;
-        roll = r;
         per = p;
     }
 

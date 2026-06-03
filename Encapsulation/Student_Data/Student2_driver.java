@@ -8,11 +8,10 @@ public class Student2_driver {
         Student2 kamal = new Student2();
 
         jalal.setStudentData("Jalal Uddin Bhuiyan", 111225096, 85.45);
-        kamal.setStudentData("Kamal Hossen", 111225095, 78.33);
+        kamal.setStudentData("Kamal Hossen", -111225095, 78.33);
 
         jalal.showStudentData();
         kamal.showStudentData();
-        
 
    }
 
